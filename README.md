@@ -27,5 +27,5 @@ Visualisation has:
 **Dataset used**: 
 
 I used the following datasets as data sources:  
-    - `CryptoData.xlsx`    
-    - `Crypto.csv`
+    - `CryptoData.xlsx` [Kaggle source](https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory)    
+    - `Crypto.csv` [Kaggle source](https://www.kaggle.com/datasets/bishop36/crypto-data)   
