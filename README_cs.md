@@ -24,5 +24,5 @@ Vizualizace má:
 **Použité datasety**: 
 
 Jako datové zdroje jsou použity tyto datasety:  
-    - `CryptoData.xlsx`    
-    - `Crypto.csv`
+    - `CryptoData.xlsx` [Kaggle zdroj](https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory)    
+    - `Crypto.csv` [Kaggle zdroj](https://www.kaggle.com/datasets/bishop36/crypto-data)   
